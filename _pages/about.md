@@ -26,13 +26,13 @@ A comprehensive review on financial explainable AI<br>
 [[Paper]](https://link.springer.com/article/10.1007/s10462-024-11077-7)
 
 Self-training Large Language Models through Knowledge Detection<br>  
-**Wei Jie Yeo**, Teddy Ferdinan, Przemyslaw Kazienko, Ranjan Satapathy, Erik Cambria 
+**Wei Jie Yeo**, Teddy Ferdinan, Przemyslaw Kazienko, Ranjan Satapathy, Erik Cambria<br> 
 *EMNLP*, 2024. <br>
 [[Paper]](https://aclanthology.org/2024.findings-emnlp.883/) [[Code]](https://github.com/wj210/Self-Training-LLM)
 
 How Interpretable are Reasoning Explanations from Prompting Large Language Models?<br>
 **Wei Jie Yeo**, Ranjan Satapathy, Goh Siow Mong, Erik Cambria<br> 
-*NAACL*, 2024.<br>  
+*NAACL*, 2024. 
 [[Paper]](https://aclanthology.org/2024.findings-naacl.138/) [[Code]](https://github.com/wj210/CoT_interpretability)
 
 Plausible Extractive Rationalization through Semi-Supervised Entailment Signal<br> 
