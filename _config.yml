@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Wei Jie Yeo"
 title_separator          : "-"
 name                     : &name "Wei Jie Yeo"
-description              : &description "Hi!, I'm Wei Jie Yeo, currently a PhD student at Nanyang Technological University, Singapore, supervised by Prof. Erik Cambria. My main research interests lies between the intersection of NLP and Interpretability, with a focus on improving the current lack of understanding in how AI systems model various complex behaviors. Lately, I have been deeply interested in finding ways to utilize interpretability to improve problems in AI safety, such as jailbreak or prompt injection attacks."
+description              : &description ""
 url                      : "https://wj210.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wj210/wj210.github.io"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
