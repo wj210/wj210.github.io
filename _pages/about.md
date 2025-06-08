@@ -9,3 +9,8 @@ Hi!, I'm Wei Jie Yeo, currently a PhD student at Nanyang Technological Universit
 ## Employment
 My expected graduation is somewhere towards the end of this year and will be actively seeking a full-time position in the industrial sector. Feel free to connect if you think I am a suitable candidate! [CV](/files/Resume.pdf)
 
+## Publications
+**Wei Jie Yeo**, Ranjan Satapathy, Goh Siow Mong, Erik Cambria
+"How Interpretable are Reasoning Explanations from Prompting Large Language Models?"  
+*NAACL*, 2024.  
+[[Paper]](https://aclanthology.org/2024.findings-naacl.138/) [[Code]](https://github.com/wj210/CoT_interpretability)
