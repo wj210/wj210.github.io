@@ -12,17 +12,19 @@ My expected graduation is somewhere towards the end of this year and will be act
 ## Publications
 Understanding Refusal in Language Models with Sparse Autoencoders
 **Wei Jie Yeo**, Nirmalendu Prakash, Clement Neo, Roy Ka-Wei Lee, Erik Cambria, Ranjan Satapathy
+
 *Preprint*, 2025.
 [[Paper]](https://arxiv.org/abs/2505.23556) [[Code]](https://github.com/wj210/refusal_sae)
 
 Debiasing CLIP: Interpreting and Correcting Bias in Attention Heads
 **Wei Jie Yeo**, Rui Mao, Moloud Abdar, Erik Cambria, Ranjan Satapathy
+
 *Preprint*, 2025.
 [[Paper]](https://www.arxiv.org/abs/2505.17425) [[Code]](https://github.com/wj210/CLIP_LTC)
 
 A comprehensive review on financial explainable AI
 **Wei Jie Yeo**, Wihan Van Der Heever, Rui Mao, Erik Cambria, Ranjan Satapathy, Gianmarco Mengaldo
-*AIRE Journal*, 2025
+*AIRE Journal*, 2025.
 [[Paper]](https://link.springer.com/article/10.1007/s10462-024-11077-7)
 
 Self-training Large Language Models through Knowledge Detection
