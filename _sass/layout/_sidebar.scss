@@ -244,7 +244,8 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal;    // allow wrapping for long lines
+    word-break: break-word; // optional, to break long words if needed
   }
 
   a {
