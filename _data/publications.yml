@@ -1,0 +1,78 @@
+# Listed in display order, newest first. Set selected: true to show a paper on the homepage.
+- title: "Debiasing CLIP: Interpreting and Correcting Bias in Attention Heads"
+  authors: "Wei Jie Yeo, Rui Mao, Moloud Abdar, Ranjan Satapathy, Erik Cambria"
+  venue: "ICML"
+  year: 2026
+  paper_url: "https://arxiv.org/abs/2505.17425"
+  code_url: "https://github.com/wj210/CLIP_LTC"
+  selected: true
+
+- title: "Beyond I’m Sorry, I Can’t: Dissecting Large-Language-Model Refusal"
+  authors: "Nirmalendu Prakash, Wei Jie Yeo, Amir Abdullah, Ranjan Satapathy, Erik Cambria, Roy Ka-Wei Lee"
+  venue: "AAAI, Special Track on AI Alignment"
+  year: 2026
+  paper_url: "https://ojs.aaai.org/index.php/AAAI/article/view/41119"
+  selected: true
+
+- title: "Understanding Refusal in Language Models with Sparse Autoencoders"
+  authors: "Wei Jie Yeo, Nirmalendu Prakash, Clement Neo, Ranjan Satapathy, Roy Ka-Wei Lee, Erik Cambria"
+  venue: "Findings of EMNLP"
+  year: 2025
+  paper_url: "https://aclanthology.org/2025.findings-emnlp.338/"
+  code_url: "https://github.com/wj210/refusal_sae"
+  selected: true
+
+- title: "Towards Faithful Natural Language Explanations: A Study Using Activation Patching in Large Language Models"
+  authors: "Wei Jie Yeo, Ranjan Satapathy, Erik Cambria"
+  venue: "EMNLP"
+  year: 2025
+  paper_url: "https://aclanthology.org/2025.emnlp-main.529/"
+  selected: true
+
+- title: "Mitigating Jailbreaks with Intent-Aware LLMs"
+  label: "Intent-FT"
+  authors: "Wei Jie Yeo, Ranjan Satapathy, Erik Cambria"
+  venue: "Preprint"
+  year: 2025
+  paper_url: "https://arxiv.org/abs/2508.12072"
+  code_url: "https://github.com/wj210/Intent_Jailbreak"
+  selected: true
+
+- title: "SusGen-GPT: A Data-Centric LLM for Financial NLP and Sustainability Report Generation"
+  authors: "Qilong Wu, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Wei Jie Yeo, Ranjan Satapathy, Ricardo Shirota Filho, Bharadwaj Veeravalli"
+  venue: "Findings of NAACL"
+  year: 2025
+  paper_url: "https://aclanthology.org/2025.findings-naacl.66/"
+  code_url: "https://github.com/JerryWu-code/SusGen"
+  selected: false
+
+- title: "A comprehensive review on financial explainable AI"
+  authors: "Wei Jie Yeo, Wihan Van Der Heever, Rui Mao, Erik Cambria, Ranjan Satapathy, Gianmarco Mengaldo"
+  venue: "Artificial Intelligence Review"
+  year: 2025
+  paper_url: "https://link.springer.com/article/10.1007/s10462-024-11077-7"
+  selected: true
+
+- title: "Self-training Large Language Models through Knowledge Detection"
+  authors: "Wei Jie Yeo, Teddy Ferdinan, Przemyslaw Kazienko, Ranjan Satapathy, Erik Cambria"
+  venue: "Findings of EMNLP"
+  year: 2024
+  paper_url: "https://aclanthology.org/2024.findings-emnlp.883/"
+  code_url: "https://github.com/wj210/Self-Training-LLM"
+  selected: true
+
+- title: "Plausible Extractive Rationalization through Semi-Supervised Entailment Signal"
+  authors: "Wei Jie Yeo, Ranjan Satapathy, Erik Cambria"
+  venue: "Findings of ACL"
+  year: 2024
+  paper_url: "https://aclanthology.org/2024.findings-acl.307/"
+  code_url: "https://github.com/wj210/NLI_ETP"
+  selected: true
+
+- title: "How Interpretable are Reasoning Explanations from Prompting Large Language Models?"
+  authors: "Wei Jie Yeo, Ranjan Satapathy, Rick Siow Mong Goh, Erik Cambria"
+  venue: "Findings of NAACL"
+  year: 2024
+  paper_url: "https://aclanthology.org/2024.findings-naacl.138/"
+  code_url: "https://github.com/wj210/CoT_interpretability"
+  selected: true

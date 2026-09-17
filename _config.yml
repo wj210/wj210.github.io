@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Wei Jie Yeo"
 title_separator          : "-"
 name                     : &name "Wei Jie Yeo"
-description              : &description ""
+description              : &description "Wei Jie Yeo — independent AI safety researcher interested in alignment evaluations, scalable alignment training, and alignment pretraining."
 url                      : "https://wj210.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wj210/wj210.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Wei Jie Yeo" # Name of the author, used in the sidebar and footer
   pronouns         : # example: "she/her"  
-  bio              : "An AI researcher with a focus on Interpretability and AI Safety."
+  bio              : "Independent AI safety researcher working on alignment and interpretability."
   location         : "Singapore"
-  employer         : "NTU, Singapore" # e.g. "University of California, Berkeley"
+  employer         : # Independent researcher
   uri              : # URL
   email            : "yeoweijie1995@gmail.com" 
 

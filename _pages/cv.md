@@ -7,58 +7,25 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV (PDF)]({{ '/files/CV.pdf' | relative_url }}).
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Research interests
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+AI alignment and safety, including evaluations of eval-awareness and agentic misalignment, scalable alignment training, alignment pretraining, and mechanistic interpretability.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Independent AI Safety Researcher** — current.
+- **Machine Learning Engineer, TikTok** — March–September 2026.
+- **AI Safety Research Intern, Huawei International** — July–December 2025.
+- **MATS exploratory stage, advised by Neel Nanda** — spring 2025. Mechanistic interpretability research.
+- **Equipment Engineer, Qualcomm** — 2020–2022.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+
+- **PhD in Computer Science, Nanyang Technological University** — 2022–2026. Advisor: Prof. Erik Cambria.
+- **Bachelor in Mechanical Engineering with Honours (Distinction), Nanyang Technological University** — 2017–2020.
+
+## Publications
+
+See my [publication list]({{ '/publications/' | relative_url }}) and [Google Scholar profile]({{ site.author.googlescholar }}).

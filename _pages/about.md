@@ -4,41 +4,24 @@ title: "About me"
 layout: single
 ---
 
-Hi!, I'm Wei Jie Yeo, currently a PhD student at Nanyang Technological University, Singapore, supervised by Prof. Erik Cambria. My main research interests lies between the intersection of NLP and Interpretability, with a focus on improving the current lack of understanding in how AI systems model various complex behaviors. Lately, I have been deeply interested in finding ways to utilize interpretability to improve problems in AI safety, such as jailbreak or prompt injection attacks.
+Hi! I'm Wei Jie Yeo, currently an independent AI safety researcher based in Singapore. My current interest are concentrated within the field of alignment research, spanning evaluations of eval-awareness and agentic misalignment, scalable alignment training, and alignment pretraining. Additionally, I am interested in investigating why alignment happens, e.g. conducting mechansitic experiments on inoculation prompting, or exploring the capability sink effect in modular pretraining. Given how current frontier models are approaching a point of potentially causing mass disruption, I believe this is a crucial time to be doing alignment research!
+
+My research background started from natural language processing and mechanistic interpretability. My PhD research at Nanyang Technological University, supervised by Prof. Erik Cambria, focused on understanding language models through their explanations and internal mechanisms, including refusal, faithfulness, and robustness to adversarial attacks.
+
+I am open to collaborations or opportunities in safety research! Feel free to reach out!
 
 ## Employment
-My expected graduation is towards the end of 2025 and I will be actively seeking a full-time position in the industry. Feel free to connect if you think I am a suitable candidate! [CV](/files/Resume.pdf)
+
+- **Current:** Independent AI Safety Researcher.
+- **March–September 2026:** Machine Learning Engineer, TikTok.
+- **July–December 2025:** AI Safety Research Intern, Huawei International.
+- **Spring 2025:** MATS exploratory stage, working on mechanistic interpretability with Neel Nanda.
+
+[Download my CV]({{ '/files/CV.pdf' | relative_url }}).
 
 ## Selected Publications
-Understanding Refusal in Language Models with Sparse Autoencoders<br>
-**Wei Jie Yeo**, Nirmalendu Prakash, Clement Neo, Roy Ka-Wei Lee, Erik Cambria, Ranjan Satapathy<br>
-*Preprint*, 2025.<br>
-[[Paper]](https://arxiv.org/abs/2505.23556) [[Code]](https://github.com/wj210/refusal_sae)
 
-Debiasing CLIP: Interpreting and Correcting Bias in Attention Heads<br> 
-**Wei Jie Yeo**, Rui Mao, Moloud Abdar, Erik Cambria, Ranjan Satapathy<br> 
-*Preprint*, 2025.<br> 
-[[Paper]](https://www.arxiv.org/abs/2505.17425) [[Code]](https://github.com/wj210/CLIP_LTC)
+{% include publication-list.html selected_only=true %}
 
-A comprehensive review on financial explainable AI<br> 
-**Wei Jie Yeo**, Wihan Van Der Heever, Rui Mao, Erik Cambria, Ranjan Satapathy, Gianmarco Mengaldo<br> 
-*AIRE Journal*, 2025.<br> 
-[[Paper]](https://link.springer.com/article/10.1007/s10462-024-11077-7)
-
-Self-training Large Language Models through Knowledge Detection<br>
-**Wei Jie Yeo**, Teddy Ferdinan, Przemyslaw Kazienko, Ranjan Satapathy, Erik Cambria<br> 
-*EMNLP*, 2024. <br>
-[[Paper]](https://aclanthology.org/2024.findings-emnlp.883/) [[Code]](https://github.com/wj210/Self-Training-LLM)
-
-How Interpretable are Reasoning Explanations from Prompting Large Language Models?<br>
-**Wei Jie Yeo**, Ranjan Satapathy, Goh Siow Mong, Erik Cambria<br> 
-*NAACL*, 2024.<br>
-[[Paper]](https://aclanthology.org/2024.findings-naacl.138/) [[Code]](https://github.com/wj210/CoT_interpretability)
-
-Plausible Extractive Rationalization through Semi-Supervised Entailment Signal<br> 
-**Wei Jie Yeo**, Ranjan Satapathy, Erik Cambria<br> 
-*ACL*, 2024<br> 
-[[Paper]](https://aclanthology.org/2024.findings-acl.307/) [[Code]](https://github.com/wj210/NLI_ETP)
-
-
+[All publications]({{ '/publications/' | relative_url }}) · [Google Scholar]({{ site.author.googlescholar }})
 

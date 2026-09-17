@@ -1,0 +1,11 @@
+{% for paper in site.data.publications %}
+  {% if include.selected_only and paper.selected != true %}
+    {% continue %}
+  {% endif %}
+  <p>
+    <a href="{{ paper.paper_url }}">{{ paper.title | escape }}</a>{% if paper.label %} ({{ paper.label | escape }}){% endif %}<br>
+    {{ paper.authors | escape | replace: 'Wei Jie Yeo', '<strong>Wei Jie Yeo</strong>' }}<br>
+    <em>{{ paper.venue | escape }}</em>, {{ paper.year }}.<br>
+    <a href="{{ paper.paper_url }}">[Paper]</a>{% if paper.code_url %} <a href="{{ paper.code_url }}">[Code]</a>{% endif %}
+  </p>
+{% endfor %}
